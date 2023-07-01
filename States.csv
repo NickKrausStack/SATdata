@@ -1,4 +1,4 @@
-﻿ID,StateName,StateAbbr,TotalMean,TotalSD,ERWMean,ERWSD,MathMean,MathSD,TotalTests
+﻿ID,StateName,stateabbr,TotalMean,TotalSD,ERWMean,ERWSD,MathMean,MathSD,TotalTests
 1,Alabama,AL,1146,210,586,103,560,119,1807
 2,Alaska,AK,1110,167,565,89,545,92,2131
 3,Arizona,AZ,1159,197,583,99,577,108,11152
