@@ -1,4 +1,5 @@
 ## DO STATES IN THE MIDWEST PERFORM BETTER ON THE SAT?
+*For the code and interactive versions of these maps, check out the [Jupyter Notebook](https://github.com/NickKrausStack/SATdata/blob/main/SATMap%20(3).ipynb) in this repository.*
 
 CollegeBoard, the organization that creates the SAT and AP exams, provides state reports every year that feature data about each state’s SAT performance. The reports individually are very thorough, but they make no attempt to compare the states to each other. To fill that gap, here is a map visual I’ve generated with Python to help us visualize average SAT scores by state for 2022:
 
